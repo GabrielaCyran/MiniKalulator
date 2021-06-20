@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projektMiniKalk", "projektMiniKalk.csproj", "{A89EF07D-FBF5-40B4-8C1E-5DB877FAAC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{56A33E51-EA4A-4752-B395-B007576EF72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89EF07D-FBF5-40B4-8C1E-5DB877FAAC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89EF07D-FBF5-40B4-8C1E-5DB877FAAC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89EF07D-FBF5-40B4-8C1E-5DB877FAAC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89EF07D-FBF5-40B4-8C1E-5DB877FAAC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A33E51-EA4A-4752-B395-B007576EF72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A33E51-EA4A-4752-B395-B007576EF72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A33E51-EA4A-4752-B395-B007576EF72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A33E51-EA4A-4752-B395-B007576EF72D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F0904D0-5149-47B0-8744-FBABA3B6DE76}
+	EndGlobalSection
+EndGlobal
